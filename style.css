@@ -1,0 +1,17 @@
+.green{
+  padding: 20px;
+  text-align: center;
+  margin: auto;
+  max-width: 200px;
+  border: 2px green solid;
+  margin-bottom: 20px;
+}
+
+.red{
+  padding: 20px;
+  text-align: center;
+  margin: auto;
+  max-width: 200px;
+  border: 2px red solid;
+  margin-bottom: 20px;
+}
